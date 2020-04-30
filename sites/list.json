@@ -1,0 +1,10 @@
+[
+  {
+    "name": "site-brau-io",
+    "title": "Brau.io website project",
+    "description": "Site created for the brau.io Project",
+    "version": "0.1.0",
+    "demo-url": "https://bra.io",
+    "folder": "brau-io"
+  }
+]
